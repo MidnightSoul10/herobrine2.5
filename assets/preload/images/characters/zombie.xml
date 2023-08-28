@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="zombie.png">
+<SubTexture frameHeight="245" frameWidth="212" frameX="-13" frameY="-32" height="213" name="down instance 0000" width="198" x="1225" y="976" />
+<SubTexture frameHeight="245" frameWidth="212" frameX="-3" frameY="-14" height="231" name="down instance 0001" width="203" x="954" y="663" />
+<SubTexture frameHeight="245" frameWidth="212" frameX="0" frameY="0" height="245" name="down instance 0002" width="204" x="1450" y="772" />
+<SubTexture frameHeight="245" frameWidth="212" frameX="0" frameY="0" height="245" name="down instance 0003" width="204" x="1450" y="772" />
+<SubTexture frameHeight="417" frameWidth="233" frameX="-13" frameY="-97" height="320" name="idle instance 0000" width="220" x="701" y="0" />
+<SubTexture frameHeight="417" frameWidth="233" frameX="-10" frameY="-110" height="306" name="idle instance 0001" width="221" x="216" y="663" />
+<SubTexture frameHeight="417" frameWidth="233" frameX="0" frameY="-113" height="303" name="idle instance 0002" width="227" x="437" y="663" />
+<SubTexture frameHeight="417" frameWidth="233" frameX="-5" frameY="-103" height="313" name="idle instance 0003" width="216" x="0" y="663" />
+<SubTexture frameHeight="417" frameWidth="233" frameX="-1" frameY="-90" height="326" name="idle instance 0004" width="199" x="0" y="337" />
+<SubTexture frameHeight="417" frameWidth="233" frameX="-16" frameY="-95" height="321" name="idle instance 0005" width="209" x="425" y="337" />
+<SubTexture frameHeight="417" frameWidth="233" frameX="-10" frameY="-100" height="317" name="idle instance 0006" width="211" x="921" y="319" />
+<SubTexture frameHeight="279" frameWidth="337" frameX="0" frameY="-11" height="267" name="left instance 0000" width="325" x="1450" y="0" />
+<SubTexture frameHeight="279" frameWidth="337" frameX="0" frameY="0" height="267" name="left instance 0001" width="325" x="1450" y="0" />
+<SubTexture frameHeight="279" frameWidth="337" frameX="0" frameY="0" height="273" name="left instance 0002" width="324" x="901" y="976" />
+<SubTexture frameHeight="279" frameWidth="337" frameX="0" frameY="0" height="273" name="left instance 0003" width="324" x="901" y="976" />
+<SubTexture frameHeight="279" frameWidth="337" frameX="0" frameY="0" height="279" name="left instance 0004" width="321" x="290" y="976" />
+<SubTexture frameHeight="418" frameWidth="240" frameX="-3" frameY="-82" height="335" name="right instance 0000" width="237" x="464" y="0" />
+<SubTexture frameHeight="418" frameWidth="240" frameX="0" frameY="-80" height="337" name="right instance 0001" width="233" x="0" y="0" />
+<SubTexture frameHeight="418" frameWidth="240" frameX="0" frameY="-80" height="337" name="right instance 0002" width="231" x="233" y="0" />
+<SubTexture frameHeight="418" frameWidth="240" frameX="0" frameY="-80" height="337" name="right instance 0003" width="231" x="233" y="0" />
+<SubTexture frameHeight="242" frameWidth="290" frameX="0" frameY="0" height="242" name="rise (static) instance 0000" width="289" x="1450" y="1017" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="-17" frameY="-160" height="242" name="rise but actual instance 0000" width="290" x="0" y="1260" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="242" name="rise but actual instance 0001" width="290" x="0" y="1260" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="250" name="rise but actual instance 0002" width="290" x="1450" y="522" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="250" name="rise but actual instance 0003" width="290" x="1450" y="522" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="255" name="rise but actual instance 0004" width="290" x="1450" y="267" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="284" name="rise but actual instance 0005" width="290" x="0" y="976" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="294" name="rise but actual instance 0006" width="290" x="1159" y="295" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="297" name="rise but actual instance 0007" width="290" x="664" y="663" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="297" name="rise but actual instance 0008" width="290" x="664" y="663" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="297" name="rise but actual instance 0009" width="290" x="664" y="663" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="295" name="rise but actual instance 0010" width="291" x="1159" y="0" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="295" name="rise but actual instance 0011" width="291" x="1159" y="0" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="295" name="rise but actual instance 0012" width="291" x="1159" y="0" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="295" name="rise but actual instance 0013" width="291" x="1159" y="0" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="295" name="rise but actual instance 0014" width="291" x="1159" y="0" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="295" name="rise but actual instance 0015" width="291" x="1159" y="0" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="278" name="rise but actual instance 0016" width="290" x="611" y="976" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="278" name="rise but actual instance 0017" width="290" x="611" y="976" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="278" name="rise but actual instance 0018" width="290" x="611" y="976" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="237" name="rise but actual instance 0019" width="276" x="290" y="1260" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="237" name="rise but actual instance 0020" width="276" x="290" y="1260" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="237" name="rise but actual instance 0021" width="276" x="290" y="1260" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="226" name="rise but actual instance 0022" width="263" x="566" y="1260" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="226" name="rise but actual instance 0023" width="263" x="566" y="1260" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="211" name="rise but actual instance 0024" width="263" x="829" y="1260" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="291" name="rise but actual instance 0025" width="250" x="1159" y="589" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="315" name="rise but actual instance 0026" width="212" x="701" y="320" />
+<SubTexture frameHeight="402" frameWidth="317" frameX="0" frameY="0" height="315" name="rise but actual instance 0027" width="212" x="701" y="320" />
+<SubTexture frameHeight="325" frameWidth="245" frameX="-13" frameY="-2" height="323" name="up instance 0000" width="226" x="199" y="337" />
+<SubTexture frameHeight="325" frameWidth="245" frameX="0" frameY="0" height="323" name="up instance 0001" width="226" x="199" y="337" />
+<SubTexture frameHeight="325" frameWidth="245" frameX="0" frameY="0" height="319" name="up instance 0002" width="238" x="921" y="0" />
+<SubTexture frameHeight="325" frameWidth="245" frameX="0" frameY="0" height="319" name="up instance 0003" width="238" x="921" y="0" />
+</TextureAtlas>

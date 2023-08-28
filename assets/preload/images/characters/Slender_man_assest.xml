@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Slender_man_assest.png">
+<SubTexture frameHeight="599" frameWidth="607" frameX="-34" frameY="-81" height="517" name="slender_down0000" width="540" x="1047" y="2559" />
+<SubTexture frameHeight="599" frameWidth="607" frameX="-41" frameY="-71" height="528" name="slender_down0001" width="526" x="521" y="2559" />
+<SubTexture frameHeight="599" frameWidth="607" frameX="-55" frameY="-41" height="558" name="slender_down0002" width="497" x="2949" y="563" />
+<SubTexture frameHeight="599" frameWidth="607" frameX="-59" frameY="-29" height="570" name="slender_down0003" width="488" x="1782" y="1984" />
+<SubTexture frameHeight="604" frameWidth="584" frameX="-32" frameY="-43" height="561" name="slender_idle0000" width="521" x="0" y="2559" />
+<SubTexture frameHeight="604" frameWidth="584" frameX="-34" frameY="-41" height="563" name="slender_idle0001" width="517" x="2949" y="0" />
+<SubTexture frameHeight="604" frameWidth="584" frameX="-39" frameY="-27" height="577" name="slender_idle0002" width="508" x="2441" y="0" />
+<SubTexture frameHeight="604" frameWidth="584" frameX="-43" frameY="-22" height="582" name="slender_idle0003" width="500" x="1745" y="723" />
+<SubTexture frameHeight="604" frameWidth="584" frameX="-43" frameY="-21" height="583" name="slender_idle0004" width="500" x="1245" y="723" />
+<SubTexture frameHeight="593" frameWidth="569" frameX="-37" frameY="-39" height="554" name="slender_left0000" width="495" x="2949" y="1679" />
+<SubTexture frameHeight="593" frameWidth="569" frameX="-34" frameY="-35" height="558" name="slender_left0001" width="495" x="2949" y="1121" />
+<SubTexture frameHeight="593" frameWidth="569" frameX="-32" frameY="-24" height="569" name="slender_left0002" width="495" x="2270" y="1984" />
+<SubTexture frameHeight="593" frameWidth="569" frameX="-32" frameY="-22" height="571" name="slender_left0003" width="495" x="773" y="1984" />
+<SubTexture frameHeight="621" frameWidth="569" frameX="-38" frameY="-48" height="573" name="slender_right0000" width="495" x="2441" y="1153" />
+<SubTexture frameHeight="621" frameWidth="569" frameX="-41" frameY="-45" height="576" name="slender_right0001" width="495" x="2441" y="577" />
+<SubTexture frameHeight="621" frameWidth="569" frameX="-43" frameY="-42" height="579" name="slender_right0002" width="495" x="1342" y="1361" />
+<SubTexture frameHeight="621" frameWidth="569" frameX="-44" frameY="-42" height="579" name="slender_right0003" width="495" x="1837" y="1361" />
+<SubTexture frameHeight="1087" frameWidth="1678" frameX="-160" frameY="-206" height="723" name="slender_up0000" width="1357" x="0" y="0" />
+<SubTexture frameHeight="1087" frameWidth="1678" frameX="-216" frameY="-291" height="638" name="slender_up0001" width="1245" x="0" y="723" />
+<SubTexture frameHeight="1087" frameWidth="1678" frameX="-168" frameY="-306" height="623" name="slender_up0002" width="1342" x="0" y="1361" />
+<SubTexture frameHeight="1087" frameWidth="1678" frameX="-297" frameY="-279" height="650" name="slender_up0003" width="1084" x="1357" y="0" />
+<SubTexture frameHeight="1087" frameWidth="1678" frameX="-452" frameY="-354" height="575" name="slender_up0004" width="773" x="0" y="1984" />
+<SubTexture frameHeight="1087" frameWidth="1678" frameX="-575" frameY="-358" height="571" name="slender_up0005" width="514" x="1268" y="1984" />
+<SubTexture frameHeight="1087" frameWidth="1678" frameX="-543" frameY="-335" height="571" name="slender_up0006" width="514" x="1268" y="1984" />
+<SubTexture frameHeight="1087" frameWidth="1678" frameX="-543" frameY="-335" height="571" name="slender_up0007" width="514" x="1268" y="1984" />
+</TextureAtlas>

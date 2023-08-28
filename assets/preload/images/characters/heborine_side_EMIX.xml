@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="heborine_side_EMIX.png">
+<SubTexture frameHeight="729" frameWidth="633" frameX="-14" frameY="-102" height="564" name="Herobrine Down0000" width="575" x="2531" y="2657" />
+<SubTexture frameHeight="729" frameWidth="633" frameX="-6" frameY="-107" height="586" name="Herobrine Down0001" width="541" x="451" y="2070" />
+<SubTexture frameHeight="729" frameWidth="633" frameX="0" frameY="-109" height="595" name="Herobrine Down0002" width="507" x="910" y="810" />
+<SubTexture frameHeight="729" frameWidth="633" frameX="0" frameY="-109" height="595" name="Herobrine Down0003" width="507" x="1609" y="0" />
+<SubTexture frameHeight="729" frameWidth="633" frameX="-36" frameY="-27" height="580" name="Herobrine Down0004" width="567" x="0" y="2657" />
+<SubTexture frameHeight="729" frameWidth="633" frameX="-32" frameY="-8" height="588" name="Herobrine Down0005" width="473" x="2549" y="0" />
+<SubTexture frameHeight="629" frameWidth="490" frameX="-35" frameY="-19" height="592" name="Herobrine Idle0000" width="434" x="425" y="1477" />
+<SubTexture frameHeight="629" frameWidth="490" frameX="-28" frameY="-23" height="593" name="Herobrine Idle0001" width="440" x="1609" y="595" />
+<SubTexture frameHeight="629" frameWidth="490" frameX="-21" frameY="-29" height="592" name="Herobrine Idle0002" width="446" x="859" y="1477" />
+<SubTexture frameHeight="629" frameWidth="490" frameX="-17" frameY="-36" height="587" name="Herobrine Idle0003" width="451" x="0" y="2070" />
+<SubTexture frameHeight="629" frameWidth="490" frameX="-23" frameY="-41" height="582" name="Herobrine Idle0004" width="445" x="1837" y="2070" />
+<SubTexture frameHeight="629" frameWidth="490" frameX="-35" frameY="-42" height="581" name="Herobrine Idle0005" width="434" x="2282" y="2070" />
+<SubTexture frameHeight="629" frameWidth="490" frameX="-36" frameY="-42" height="581" name="Herobrine Idle0006" width="433" x="3022" y="0" />
+<SubTexture frameHeight="629" frameWidth="490" frameX="-40" frameY="-42" height="584" name="Herobrine Idle0007" width="429" x="1408" y="2070" />
+<SubTexture frameHeight="629" frameWidth="490" frameX="-38" frameY="-41" height="588" name="Herobrine Idle0008" width="430" x="2549" y="588" />
+<SubTexture frameHeight="629" frameWidth="490" frameX="-38" frameY="-41" height="588" name="Herobrine Idle0009" width="431" x="2549" y="1176" />
+<SubTexture frameHeight="629" frameWidth="490" frameX="-41" frameY="-39" height="590" name="Herobrine Idle0010" width="428" x="2116" y="592" />
+<SubTexture frameHeight="629" frameWidth="490" frameX="-51" frameY="-29" height="597" name="Herobrine Idle0011" width="418" x="492" y="810" />
+<SubTexture frameHeight="610" frameWidth="727" frameX="-9" frameY="-3" height="497" name="Herobrine Left0000" width="570" x="1114" y="3237" />
+<SubTexture frameHeight="610" frameWidth="727" frameX="0" frameY="-1" height="499" name="Herobrine Left0001" width="571" x="543" y="3237" />
+<SubTexture frameHeight="610" frameWidth="727" frameX="-35" frameY="-1" height="501" name="Herobrine Left0002" width="543" x="0" y="3237" />
+<SubTexture frameHeight="610" frameWidth="727" frameX="-71" frameY="-1" height="550" name="Herobrine Left0003" width="471" x="3455" y="0" />
+<SubTexture frameHeight="610" frameWidth="727" frameX="-227" frameY="-6" height="585" name="Herobrine Left0004" width="416" x="992" y="2070" />
+<SubTexture frameHeight="610" frameWidth="727" frameX="-258" frameY="-18" height="592" name="Herobrine Left0005" width="452" x="1305" y="1477" />
+<SubTexture frameHeight="609" frameWidth="547" frameX="-15" frameY="-28" height="578" name="Herobrine Right0000" width="497" x="1062" y="2657" />
+<SubTexture frameHeight="609" frameWidth="547" frameX="-26" frameY="-28" height="579" name="Herobrine Right0001" width="495" x="567" y="2657" />
+<SubTexture frameHeight="609" frameWidth="547" frameX="-28" frameY="-29" height="578" name="Herobrine Right0002" width="494" x="1559" y="2657" />
+<SubTexture frameHeight="609" frameWidth="547" frameX="-38" frameY="-13" height="577" name="Herobrine Right0003" width="478" x="2053" y="2657" />
+<SubTexture frameHeight="609" frameWidth="547" frameX="-42" frameY="-20" height="586" name="Herobrine Right0004" width="401" x="2116" y="1182" />
+<SubTexture frameHeight="609" frameWidth="547" frameX="-17" frameY="-17" height="592" name="Herobrine Right0005" width="433" x="2116" y="0" />
+<SubTexture frameHeight="1025" frameWidth="585" frameX="-9" frameY="-20" height="810" name="Herobrine UP0000" width="528" x="0" y="0" />
+<SubTexture frameHeight="1025" frameWidth="585" frameX="0" frameY="-27" height="804" name="Herobrine UP0001" width="525" x="528" y="0" />
+<SubTexture frameHeight="1025" frameWidth="585" frameX="-6" frameY="-128" height="754" name="Herobrine UP0002" width="556" x="1053" y="0" />
+<SubTexture frameHeight="1025" frameWidth="585" frameX="-45" frameY="-249" height="667" name="Herobrine UP0003" width="492" x="0" y="810" />
+<SubTexture frameHeight="1025" frameWidth="585" frameX="-92" frameY="-394" height="562" name="Herobrine UP0004" width="426" x="3022" y="581" />
+<SubTexture frameHeight="1025" frameWidth="585" frameX="-104" frameY="-432" height="593" name="Herobrine UP0005" width="425" x="0" y="1477" />
+</TextureAtlas>

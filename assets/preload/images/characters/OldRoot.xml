@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="OldRoot.png">
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-306" frameY="-249" height="520" name="OldRoot Idle0000" width="360" x="0" y="0" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-298" frameY="-243" height="525" name="OldRoot Idle0001" width="379" x="360" y="0" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-300" frameY="-240" height="528" name="OldRoot Idle0002" width="376" x="739" y="0" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-303" frameY="-238" height="532" name="OldRoot Idle0003" width="370" x="1115" y="0" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-307" frameY="-238" height="533" name="OldRoot Idle0004" width="363" x="1485" y="0" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-311" frameY="-239" height="534" name="OldRoot Idle0005" width="355" x="0" y="533" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-314" frameY="-240" height="534" name="OldRoot Idle0006" width="350" x="355" y="533" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-355" frameY="-231" height="515" name="OldRoot Down0000" width="346" x="705" y="533" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-356" frameY="-231" height="515" name="OldRoot Down0001" width="344" x="1051" y="533" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-356" frameY="-233" height="513" name="OldRoot Down0002" width="344" x="1395" y="533" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-356" frameY="-231" height="515" name="OldRoot Down0003" width="344" x="0" y="1067" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-322" frameY="-191" height="548" name="OldRoot Left0000" width="367" x="344" y="1067" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-320" frameY="-191" height="548" name="OldRoot Left0001" width="366" x="711" y="1067" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-320" frameY="-191" height="548" name="OldRoot Left0002" width="363" x="1077" y="1067" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-324" frameY="-191" height="548" name="OldRoot Left0003" width="363" x="1440" y="1067" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-329" frameY="-190" height="549" name="OldRoot Left0004" width="365" x="0" y="1615" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-247" frameY="-201" height="550" name="OldRoot Right0000" width="503" x="365" y="1615" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-245" frameY="-200" height="551" name="OldRoot Right0001" width="501" x="868" y="1615" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-240" frameY="-199" height="552" name="OldRoot Right0002" width="497" x="1369" y="1615" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-237" frameY="-199" height="552" name="OldRoot Right0003" width="492" x="1866" y="1615" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-338" frameY="-186" height="564" name="OldRoot Up0000" width="415" x="0" y="2167" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-339" frameY="-188" height="562" name="OldRoot Up0001" width="413" x="415" y="2167" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-340" frameY="-192" height="558" name="OldRoot Up0002" width="409" x="828" y="2167" />
+<SubTexture frameHeight="1000" frameWidth="1000" frameX="-339" frameY="-196" height="554" name="OldRoot Up0003" width="411" x="1237" y="2167" />
+</TextureAtlas>
