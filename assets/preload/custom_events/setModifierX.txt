@@ -1,3 +1,0 @@
-Sets a modifier X value
-val1: name
-val2: value
