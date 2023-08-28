@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				38,
+				-97
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				4,
+				168
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				190,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				30,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				110,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "rise",
+			"indices": [],
+			"name": "rise but actual instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				40
+			],
+			"anim": "idle-ded",
+			"fps": 24,
+			"name": "rise but actual instance 1",
+			"indices": [
+				0,
+				1
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zombie",
+	"position": [
+		280,
+		300
+	],
+	"healthicon": "Zombie",
+	"flip_x": false,
+	"healthbar_colors": [
+		117,
+		187,
+		122
+	],
+	"camera_position": [
+		-200,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

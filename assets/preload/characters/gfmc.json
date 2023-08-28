@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle instance"
+		},
+		{
+			"offsets": [
+				18,
+				15
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left instance"
+		},
+		{
+			"offsets": [
+				30,
+				-75
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down instance"
+		},
+		{
+			"offsets": [
+				26,
+				-103
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up instance"
+		},
+		{
+			"offsets": [
+				-80,
+				-40
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right instance"
+		},
+		{
+			"offsets": [
+				-43,
+				-165
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "left miss instance "
+		},
+		{
+			"offsets": [
+				-52,
+				-192
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "down miss instance"
+		},
+		{
+			"offsets": [
+				-86,
+				-143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "upmiss instance"
+		},
+		{
+			"offsets": [
+				-103,
+				-145
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "right miss instance"
+		},
+		{
+			"offsets": [
+				-226,
+				-336
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "alex dies instance"
+		},
+		{
+			"offsets": [
+				-226,
+				-336
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "dead confirm instance"
+		},
+		{
+			"offsets": [
+				-346,
+				-457
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "dead loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf_minecraft",
+	"position": [
+		20,
+		180
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		0,
+		220
+	],
+	"camera_position": [
+		200,
+		-232
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}
