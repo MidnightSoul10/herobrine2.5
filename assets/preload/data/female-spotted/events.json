@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "desiertoxd",
+		"player1": "pico",
+		"player2": "steev",
+		"player3": null,
+		"events": [
+			[
+				187.5,
+				[
+					[
+						"Change Character",
+						"1",
+						"Chicabrine"
+					]
+				]
+			],
+			[
+				281.25,
+				[
+					[
+						"Play Animation",
+						"emerge",
+						"1"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Play Animation",
+						"pout",
+						"dad"
+					]
+				]
+			],
+			[
+				204900,
+				[
+					[
+						"Play Animation",
+						"sob",
+						"dad"
+					]
+				]
+			],
+			[
+				205300,
+				[
+					[
+						"Play Animation",
+						"sob",
+						"dad"
+					]
+				]
+			],
+			[
+				205600,
+				[
+					[
+						"Play Animation",
+						"sob",
+						"dad"
+					]
+				]
+			],
+			[
+				206300,
+				[
+					[
+						"Play Animation",
+						"sob",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "Chicabrine",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Shootout"
+	}
+}

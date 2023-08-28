@@ -1,0 +1,164 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "cave",
+		"player1": "gfmc",
+		"player2": "zombie",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-ded"
+					]
+				]
+			],
+			[
+				6857.14285714286,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					],
+					[
+						"Play Animation",
+						"rise",
+						"dad"
+					]
+				]
+			],
+			[
+				70071.4285714286,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70178.5714285715,
+				[
+					[
+						"Change Character",
+						"dad",
+						"zombie2"
+					]
+				]
+			],
+			[
+				70285.7142857143,
+				[
+					[
+						"Pincheenderman",
+						"si",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"gf",
+						"enderman-angy"
+					]
+				]
+			],
+			[
+				96428.5714285714,
+				[
+					[
+						"Play Animation",
+						"aaa",
+						"gf"
+					]
+				]
+			],
+			[
+				98571.4285714286,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				98678.5714285714,
+				[
+					[
+						"Change Character",
+						"dad",
+						"zombie3"
+					]
+				]
+			],
+			[
+				194571.428571428,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Zombie-brin"
+					]
+				]
+			],
+			[
+				194785.714285714,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Zombie"
+					]
+				]
+			],
+			[
+				195000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Zombie-brin"
+					]
+				]
+			],
+			[
+				195214.285714285,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Zombie"
+					]
+				]
+			],
+			[
+				195428.571428571,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Zombie-brin"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "enderman",
+		"bpm": 140,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Underground"
+	}
+}

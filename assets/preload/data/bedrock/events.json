@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "void",
+		"player1": "bf-fall",
+		"player2": "void",
+		"player3": null,
+		"events": [
+			[
+				45394.7368421053,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45473.6842105263,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-fall2"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "Herobrine_pissed",
+		"bpm": 190,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Bedrock"
+	}
+}
