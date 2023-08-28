@@ -1,0 +1,125 @@
+{
+	"storyName": "",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"nevermore",
+			"Faceless",
+			[
+				126,
+				133,
+				175
+			]
+		],
+		[
+			"petrify",
+			"Faceless",
+			[
+				126,
+				133,
+				175
+			]
+		],
+		[
+			"bloodlust",
+			"alex",
+			[
+				0,
+				95,
+				0
+			]
+		],
+		[
+			"shootout",
+			"steev",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"danger-classic",
+			"Brin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"creepypasta-clash",
+			"sonictime",
+			[
+				0,
+				20,
+				195
+			]
+		],
+		[
+			"roasted-beef",
+			"sonictime",
+			[
+				0,
+				20,
+				195
+			]
+		],
+		[
+			"cutoff",
+			"slender",
+			[
+				0,
+				55,
+				0
+			]
+		],
+		[
+			"female-spotted",
+			"UnaminitaOWO",
+			[
+				115,
+				35,
+				40
+			]
+		],
+		[
+			"summon-meme",
+			"none",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"death-wish",
+			"entity-303",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"sighting",
+			"none",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week6"
+}

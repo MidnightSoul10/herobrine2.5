@@ -1,0 +1,62 @@
+{
+	"storyName": "",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "w1",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Summon",
+			"brin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Underground",
+			"brin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Final Warning",
+			"brin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Danger",
+			"brin",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"No Escape",
+			"brin",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week1"
+}

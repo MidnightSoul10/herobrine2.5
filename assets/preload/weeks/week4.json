@@ -1,0 +1,44 @@
+{
+	"storyName": "",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"summon emix",
+			"herobrinegaming",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"final warning emix",
+			"herobrinegaming",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"no escape emix",
+			"herobrinegaming",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week4"
+}

@@ -1,0 +1,44 @@
+{
+	"storyName": "",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "w3",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Desolation",
+			"nu2",
+			[
+				60,
+				35,
+				100
+			]
+		],
+		[
+			"Bedrock",
+			"nu2",
+			[
+				60,
+				35,
+				100
+			]
+		],
+		[
+			"Fallen",
+			"nu2",
+			[
+				60,
+				35,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week3"
+}

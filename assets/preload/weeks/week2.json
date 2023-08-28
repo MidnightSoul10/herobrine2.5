@@ -1,0 +1,44 @@
+{
+	"storyName": "",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "w2",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Crashlog",
+			"brin-g",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Deletion",
+			"brin-g",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Diverge",
+			"brin-g",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week2"
+}
